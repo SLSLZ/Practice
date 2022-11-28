@@ -1,0 +1,3 @@
+[submodule "forsubmodule/Lab1_submodule"]
+	path = forsubmodule/Lab1_submodule
+	url = https://github.com/ET0735-DevOps-AIoT/Lab1_submodule.git
